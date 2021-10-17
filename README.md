@@ -12,15 +12,20 @@
 
 <img align="right" alt="GIF" src="https://user-images.githubusercontent.com/22448559/137613385-2ebbef8f-ca0a-4781-b0c1-a2ba145d8194.gif" height="280" />
 
-### About Me
+### 🥳 About Me
 
-👉  I’m a ambitious, and self taught full-stack developer.
+👉  I’m a ambitious and self taught full-stack developer.
 
 👉  Live in Banglore, India.
 
 👉  Choose to be optimistic.
 
+👉  Big fan of Squid Game.
 
+👉  🏏 🏸 ♟️ 🍕
+
+
+<br>
 
 ### 🛠 &nbsp;Tech Stack I work with
 
