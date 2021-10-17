@@ -81,4 +81,4 @@
 | --- | --- |
 
 <br>
-<img align="center" width=500 src="https://github-readme-stats.vercel.app/api/top-langs/?username=a8hok&count_private=true&theme=radical" alt="Jas-Script" />
+<img align="center" width=400 src="https://github-readme-stats.vercel.app/api/top-langs/?username=a8hok&count_private=true&theme=radical" alt="Jas-Script" />
