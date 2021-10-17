@@ -69,3 +69,7 @@
 
 ### 🏆 Trophies<br>
 <img src="https://github-profile-trophy.vercel.app/?username=a8hok&theme=gruvbox&margin-w=15" />
+
+<br>
+
+![github graph](https://activity-graph.herokuapp.com/graph?username=a8hok&theme=react-dark)
