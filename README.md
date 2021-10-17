@@ -21,14 +21,14 @@
 
 <p  align="center">
 
-<img src="https://user-images.githubusercontent.com/22448559/137614691-4b609c92-809c-4aaf-874c-aab2471e857b.png" width="120" height="30"/>
+<img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" width="120" height="30"/>
   </p>
   
 <p  align="center">
 
-<img src="https://user-images.githubusercontent.com/22448559/137614696-fe028d8a-79fb-4582-a031-10df8ff43e60.png" width="100" height="30"/>  
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" width="100" height="30"/>  
   &nbsp;
-<img src="https://user-images.githubusercontent.com/22448559/137614695-ef5719e3-cf91-45ec-89b6-b5209f62c162.jpeg" width="100" height="30"/>
+<img src="https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js" width="100" height="30"/>
   </p>
   
   <p  align="center">
@@ -59,14 +59,14 @@
 
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" width="90" height="30">
 &nbsp;
-  <img src="https://user-images.githubusercontent.com/22448559/137615804-52e31bb2-99fc-4931-a736-a657cb48be52.jpeg" width="90" height="30">
+  <img src="https://img.shields.io/badge/-Flask-05122A?style=flat&logo=flask" width="90" height="30">
 &nbsp;
-    <img src="https://user-images.githubusercontent.com/22448559/137615798-a80fc54c-5c37-4ce7-95ea-de1c66fa961f.png" width="90" height="30">
+    <img src="https://img.shields.io/badge/-Django-05122A?style=flat&logo=django&logoColor=092E20" width="90" height="30">
 &nbsp;
     <img src="https://user-images.githubusercontent.com/22448559/137615981-be5a8b84-19b2-4b1e-ae97-3b273b594c4c.jpeg" width="90" height="30">
 &nbsp;
   
-  <img src="https://img.shields.io/badge/Visual_Studio-0078D4?style=for-the-badge&logo=visual%20studio%&logoColor=white" width="110" height="30">
+  <img src="http://img.shields.io/badge/-VS%20Code-000000?style=for-the-badge&logo=Visual-studio-code&logoColor=blue" width="110" height="30">
 
 </p>
 <br>
