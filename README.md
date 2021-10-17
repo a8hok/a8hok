@@ -14,15 +14,15 @@
 
 ### 🥳 About Me
 
-👉  I’m a ambitious and self taught full-stack developer.
+👉  I’m a ambitious and self taught full-stack developer 🖥️.
 
-👉  Live in Banglore, India.
+👉  Live in Banglore, India 🇮🇳.
 
-👉  Choose to be optimistic.
+👉  Choose to be optimistic 😃.
 
-👉  Big fan of Squid Game.
+👉  Big fan of Squid Game 📺.
 
-👉  🏏 🏸 ♟️ 🍕
+👉  🏏 &nbsp;&nbsp;🏸 &nbsp;&nbsp;♟️&nbsp;&nbsp; 🍕.
 
 
 <br>
