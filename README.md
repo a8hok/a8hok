@@ -68,8 +68,17 @@
 
 
 ### 🏆 Trophies<br>
-<img src="https://github-profile-trophy.vercel.app/?username=a8hok&theme=gruvbox&margin-w=15" />
+<img src="https://github-profile-trophy.vercel.app/?username=a8hok&theme=tokyonight&margin-w=15" />
 
 <br>
 
+### Github Stats
 ![github graph](https://activity-graph.herokuapp.com/graph?username=a8hok&theme=react-dark)
+
+<br>
+
+| ![Ashokkumar's github stats](https://github-readme-stats.vercel.app/api?username=a8hok&show_icons=true&theme=tokyonight) | ![Ashokkumar GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=a8hok&theme=tokyonight) |
+| --- | --- |
+
+<br>
+<img align="center" width=500 src="https://github-readme-stats.vercel.app/api/top-langs/?username=a8hok&count_private=true&theme=radical" alt="Jas-Script" />
