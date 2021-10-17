@@ -52,10 +52,25 @@
   &nbsp;
 <img src="https://user-images.githubusercontent.com/22448559/137614991-a8c62984-33fa-4342-bfb0-72c68672433b.png" width="80" height="30"/>  
  </p>
+
+ <br>
  
+ <p align="left">
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" width="90" height="30">
+&nbsp;
+  <img src="https://img.shields.io/badge/-Flask-05122A?style=flat&logo=flask" width="90" height="30">
+&nbsp;
+    <img src="https://img.shields.io/badge/-Django-05122A?style=flat&logo=django&logoColor=092E20" width="90" height="30">
+&nbsp;
+    <img src="https://user-images.githubusercontent.com/22448559/137615981-be5a8b84-19b2-4b1e-ae97-3b273b594c4c.jpeg" width="90" height="30">
+
+</p>
+
+<br>
+
  <p  align="left">
 
-  
 <img src="https://user-images.githubusercontent.com/22448559/137615247-3e8ae08b-8309-404c-a97d-a74d7d572290.png" width="90" height="30">
   &nbsp;
 
@@ -67,17 +82,7 @@
   
 <img src="https://user-images.githubusercontent.com/22448559/137615983-3043c784-bc74-43cf-82eb-0aa5ac2f3e1d.jpeg" width="90" height="30">
 </p>
-<p align="left">
 
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" width="90" height="30">
-&nbsp;
-  <img src="https://img.shields.io/badge/-Flask-05122A?style=flat&logo=flask" width="90" height="30">
-&nbsp;
-    <img src="https://img.shields.io/badge/-Django-05122A?style=flat&logo=django&logoColor=092E20" width="90" height="30">
-&nbsp;
-    <img src="https://user-images.githubusercontent.com/22448559/137615981-be5a8b84-19b2-4b1e-ae97-3b273b594c4c.jpeg" width="90" height="30">
-
-</p>
 <br>
 
 
