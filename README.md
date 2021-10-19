@@ -71,16 +71,16 @@
 
  <p  align="left">
 
-<img src="https://user-images.githubusercontent.com/22448559/137615247-3e8ae08b-8309-404c-a97d-a74d7d572290.png" width="90" height="30">
+<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" width="90" height="30">
   &nbsp;
 
-<img src="https://user-images.githubusercontent.com/22448559/137615245-054d7e27-433a-49d9-b159-cc3b9ad24627.jpeg" width="90" height="30">
+<img src="https://img.shields.io/badge/redis-%23DD0031.svg?&style=for-the-badge&logo=redis&logoColor=white" width="90" height="30">
 &nbsp;
   
-  <img src="https://user-images.githubusercontent.com/22448559/137615248-f34c1898-b477-41c1-a993-3df8a550c38e.png" width="90" height="30">
+  <img src="https://img.shields.io/badge/redis-%23DD0031.svg?&style=for-the-badge&logo=redis&logoColor=white" width="90" height="30">
 &nbsp;
   
-<img src="https://user-images.githubusercontent.com/22448559/137615983-3043c784-bc74-43cf-82eb-0aa5ac2f3e1d.jpeg" width="90" height="30">
+<img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" width="90" height="30">
 </p>
 
 <br>
