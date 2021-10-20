@@ -40,7 +40,7 @@
 
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" width="100" height="30"/>  
   &nbsp;
-<img src="https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js" width="100" height="30"/>
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" width="100" height="30"/>
   </p>
   
   <p  align="left">
@@ -94,7 +94,7 @@
 
 <br>
 
-### Github Stats
+### 📈 Github Stats
 ![github graph](https://activity-graph.herokuapp.com/graph?username=a8hok&theme=react-dark)
 
 <br>
