@@ -46,14 +46,13 @@
   <p  align="left">
 
   
-<img src="https://user-images.githubusercontent.com/22448559/137614725-a729244a-bc72-4820-b1c5-3aee6c4cf5c3.png" width="80" height="30"/>
+<img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" width="80" height="30"/>
   &nbsp;
 <img src="https://user-images.githubusercontent.com/22448559/137614989-f740ccc8-83cb-453a-8e28-ac07da187920.png" width="80" height="30"/>
   &nbsp;
-<img src="https://user-images.githubusercontent.com/22448559/137614991-a8c62984-33fa-4342-bfb0-72c68672433b.png" width="80" height="30"/>  
+<img src="https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=Webpack&logoColor=white" width="80" height="30"/>  
  </p>
 
- <br>
  
  <p align="left">
 
@@ -61,26 +60,29 @@
 &nbsp;
   <img src="https://img.shields.io/badge/-Flask-05122A?style=flat&logo=flask" width="90" height="30">
 &nbsp;
-    <img src="https://img.shields.io/badge/-Django-05122A?style=flat&logo=django&logoColor=092E20" width="90" height="30">
+    <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green" width="90" height="30">
 &nbsp;
     <img src="https://user-images.githubusercontent.com/22448559/137615981-be5a8b84-19b2-4b1e-ae97-3b273b594c4c.jpeg" width="90" height="30">
 
 </p>
 
-<br>
 
  <p  align="left">
 
 <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" width="90" height="30">
   &nbsp;
 
-<img src="https://img.shields.io/badge/redis-%23DD0031.svg?&style=for-the-badge&logo=redis&logoColor=white" width="90" height="30">
+<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" width="90" height="30">
 &nbsp;
   
   <img src="https://img.shields.io/badge/redis-%23DD0031.svg?&style=for-the-badge&logo=redis&logoColor=white" width="90" height="30">
 &nbsp;
   
 <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" width="90" height="30">
+&nbsp;
+  
+<img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white" width="90" height="30">
+  
 </p>
 
 <br>
