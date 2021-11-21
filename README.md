@@ -5,15 +5,15 @@
 
 ### 🥳 About Me
 
-👉  I’m a ambitious and self taught full-stack developer 🖥️.
+👉  I’m a ambitious and self taught full-stack developer 🖥️
 
-👉  Live in Banglore, India 🇮🇳.
+👉  Live in Banglore, India 🇮🇳
 
-👉  Choose to be Optimistic 😃.
+👉  Choose to be Optimistic 😃
 
-👉  Big fan of Breaking Bad 📺.
+👉  Big fan of Breaking Bad 📺
 
-👉  🏏 &nbsp;&nbsp;🏸 &nbsp;&nbsp;♟️&nbsp;&nbsp; 🍕.
+👉  🏏 &nbsp;&nbsp;🏸 &nbsp;&nbsp;♟️&nbsp;&nbsp; 🍕
 
 <br>
 
