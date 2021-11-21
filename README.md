@@ -9,7 +9,7 @@
 
 👉  Live in Banglore, India 🇮🇳.
 
-👉  Choose to be optimistic 😃.
+👉  Choose to be Optimistic 😃.
 
 👉  Big fan of Breaking Bad 📺.
 
