@@ -17,7 +17,7 @@
 
 <br>
 
-### Reach me here 👇
+### Reach me 👇
 <a href="https://www.linkedin.com/in/a8hok/" target="_blank">
     <img alt="a8hok | linkedin" src="https://user-images.githubusercontent.com/22448559/137614008-18f96cfd-b2c4-4066-9991-f605c978f9d9.png" width="80"/>
   </a> &nbsp;&nbsp;
