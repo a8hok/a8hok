@@ -11,7 +11,7 @@
 
 👉  Choose to be Optimistic 😃
 
-👉  Big fan of Breaking Bad 📺
+👉  Big fan of Squid game 📺
 
 👉  🏏 &nbsp;&nbsp;🏸 &nbsp;&nbsp;♟️&nbsp;&nbsp; 🍕
 
