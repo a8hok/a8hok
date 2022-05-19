@@ -7,7 +7,7 @@
 
 👉  I’m a ambitious and self taught full-stack developer 🖥️
 
-👉  Lives in Banglore, India 🇮🇳
+👉  Lives in Banglore,India 🇮🇳
 
 👉  Choose to be Optimistic 😃
 
