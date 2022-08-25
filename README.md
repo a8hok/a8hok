@@ -33,7 +33,7 @@
 <br>
 
 
-### 🛠 &nbsp;Tech Stack I work with
+### 🛠 &nbsp;Tech Stack I work with,
 
 
 <p  align="left">
