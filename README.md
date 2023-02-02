@@ -100,7 +100,8 @@
 <br>
 
 ### 📈 Github Stats
-![github graph](https://github-readme-activity-graph.cyclic.app?username=a8hok&theme=react-dark)
+[![github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=a8hok&theme=react-dark)](https://github.com/a8hok/github-readme-activity-graph)
+
 
 <br>
 
