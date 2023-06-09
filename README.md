@@ -99,8 +99,8 @@
 
 <br>
 
-### 📈 Github Stats
-[![github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=a8hok&theme=react-dark)](https://github.com/a8hok/github-readme-activity-graph)
+### 📈 Github activity graph
+[![A8hok's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=a8hok&bg_color=272626&color=f6f4f6&line=6cd1e5&point=f8f2f2&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
 <br>
