@@ -100,7 +100,7 @@
 <br>
 
 ### 📈 Github activity graph
-[![A8hok's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=a8hok&bg_color=272626&color=f6f4f6&line=6cd1e5&point=f8f2f2&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![A8hok's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=a8hok&bg_color=272626&color=f6f4f6&line=0f8ef0&point=f8f2f2&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
 <br>
