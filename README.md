@@ -11,7 +11,7 @@
 
 👉  Choose to be Optimistic 😃
 
-👉  Big fan of Strangerthings 📺
+👉  Big fan of Stranger Things 📺
 
 👉  🏏 &nbsp;&nbsp;🏸 &nbsp;&nbsp;♟️&nbsp;&nbsp; 🍕
 
