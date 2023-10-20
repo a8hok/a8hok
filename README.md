@@ -5,13 +5,13 @@
 
 ### 🥳 Me
 
-👉  I’m a ambitious and self taught full-stack developer 🖥️
+👉  I’m a ambitious and self taught Full-stack developer 🖥️
 
 👉  Lives in Banglore, India 🇮🇳
 
 👉  Choose to be Optimistic 😃
 
-👉  Big fan of Stranger Things 📺
+👉  Stranger Things 📺
 
 👉  🏏 &nbsp;&nbsp;🏸 &nbsp;&nbsp;♟️&nbsp;&nbsp; 🍕
 
