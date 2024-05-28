@@ -5,7 +5,7 @@
 
 ### 🥳 Me
 
-👉  I’m a ambitious and self taught Full-stack developer 🖥️
+👉  I’m a ambitious and self taught Engineer 🖥️
 
 👉  Lives in Banglore, India 🇮🇳
 
