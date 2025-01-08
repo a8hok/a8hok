@@ -112,8 +112,9 @@
 | --- | --- |
 
 <br>
+
 ### 🏆 Badges<br>
-<img src="https://github.com/user-attachments/assets/97b4fd9c-b10e-4087-aa32-c736732cda98" width="280" height="280"/>
-<img src="https://github.com/user-attachments/assets/14cf2a6d-3889-4daf-81f9-39714f4dbff2" width="280" height="280"/>
-<img src="https://github.com/user-attachments/assets/c09307c0-6e7f-4476-a31d-71343ab62770" width="280" height="280"/>
+<img src="https://github.com/user-attachments/assets/97b4fd9c-b10e-4087-aa32-c736732cda98" width="265" height="265"/>
+<img src="https://github.com/user-attachments/assets/14cf2a6d-3889-4daf-81f9-39714f4dbff2" width="265" height="265"/>
+<img src="https://github.com/user-attachments/assets/c09307c0-6e7f-4476-a31d-71343ab62770" width="265" height="265"/>
 
