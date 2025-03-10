@@ -27,8 +27,9 @@
   <a href="mailto:a8hokkumar@gmail.com">
     <img alt="a8hok | Gmail" width="80px" src="https://user-images.githubusercontent.com/22448559/137614003-749c6718-b38d-4d6f-9cb2-b01a1781b144.png" />
   </a>
-
-
+<a href="https://stackoverflow.com/users/3331384/a8hok" target="_blank">
+ <img width="80px" src="https://github.com/user-attachments/assets/c58e8491-cf0e-4b38-9b73-29371f059883"/>
+</a>
 <br>
 
 ### 🛠 &nbsp;Tech Stack I work with,
