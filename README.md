@@ -109,7 +109,7 @@
 
 <br>
 
-| <img align="center" width=600 src="https://github-readme-stats.vercel.app/api/top-langs/?username=a8hok&count_private=true&theme=radical" alt="Jas-Script" /> | <div style="background-color: aquamarine;height: 481px;width: 400px;"><a href="https://app.daily.dev/a8hok"><img src="https://api.daily.dev/devcards/v2/CmULwmbhD.png?type=default&r=tem" width="410" alt="P.Ashok Kumar's Dev Card"/></a></div> |
+| <img align="center" width=600 src="https://github-readme-stats.vercel.app/api/top-langs/?username=a8hok&count_private=true&theme=radical" alt="Jas-Script" /> | <div style="background-color: aquamarine;height: 481px;width: 400px;"><a href="https://app.daily.dev/a8hok"><img src="https://github.com/user-attachments/assets/1ab23f7f-6781-43aa-9772-1ea44ea981ad" width="410" alt="P.Ashokkumar's Dev Card"/></a></div> |
 | --- | --- |
 
 <br>
