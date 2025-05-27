@@ -24,11 +24,14 @@
   <a href="https://dev.to/a8hok" target="_blank">
       <img alt="a8hok | dev" src="https://user-images.githubusercontent.com/22448559/137614000-07f740bc-3723-497b-bb5e-54185478c892.png" width="80" />
   </a> &nbsp;&nbsp;
-  <a href="mailto:a8hokkumar@gmail.com">
+  <a href="mailto:a8hokkumar@gmail.com" target="_blank">
     <img alt="a8hok | Gmail" width="80px" src="https://user-images.githubusercontent.com/22448559/137614003-749c6718-b38d-4d6f-9cb2-b01a1781b144.png" />
   </a>
 <a href="https://stackoverflow.com/users/3331384/a8hok" target="_blank">
  <img width="80px" src="https://github.com/user-attachments/assets/c58e8491-cf0e-4b38-9b73-29371f059883"/>
+</a> &nbsp;
+<a href="https://profiles.wordpress.org/ashokkumar24/" target="_blank">
+ <img width="70px" src="https://github.com/user-attachments/assets/a30d7f63-6d40-49eb-b2be-fcb9fceb453a"/>
 </a>
 <br>
 
