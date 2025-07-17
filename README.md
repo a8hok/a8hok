@@ -123,7 +123,7 @@
 <img src="https://github.com/user-attachments/assets/96ee2a34-3c00-4128-a4ac-1dd424601489" width="277" height="277"/>
 
 ### 🏆 Star Dev
-[![Check out a8hok's profile on stardev.io](https://stardev.io/developers/a8hok/badge/languages/global.svg)](https://stardev.io/developers/a8hok)
+<a href="https://stardev.io/developers/a8hok"><img alt="Check out a8hok&apos;s profile on stardev.io" src="https://stardev.io/developers/a8hok/badge/languages/global.svg" width="840"/></a>
 
 
 
