@@ -125,5 +125,11 @@
 ### 🏆 Star Dev
 <a href="https://stardev.io/developers/a8hok"><img alt="Check out a8hok&apos;s profile on stardev.io" src="https://stardev.io/developers/a8hok/badge/languages/global.svg" width="840"/></a>
 
+### 🏆 College Sessions
+
+<img src="https://github.com/user-attachments/assets/9665c646-4d18-4699-a4d6-c71c9e15ce4a" width="840" height="370"/>
+<br>
+<img width="840" height="370" alt="python-class_optimized" src="https://github.com/user-attachments/assets/ecdf8529-4585-4147-a7db-02aff4369ab9" />
+
 
 
