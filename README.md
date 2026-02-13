@@ -11,7 +11,7 @@
 
 👉  Choose to be Optimistic 😃
 
-👉  Stranger Things 📺
+👉  Breaking Bad 📺
 
 👉  🏏 &nbsp;&nbsp;🏸 &nbsp;&nbsp;♟️&nbsp;&nbsp; 🍕
 
