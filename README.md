@@ -37,62 +37,37 @@
 
 ### 🛠 &nbsp;Tech Stack I work with,
 
+<table>
+  <tr>
+    <td>
+      <img src="https://img.shields.io/badge/javascript-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" height="40"/>
+    </td>
+  </tr>
 
-<p  align="left">
+  <tr>
+    <td>
+      <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" height="40"/>&nbsp;&nbsp;<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" height="40"/>
+    </td>
+  </tr>
 
-<img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" width="120" height="30"/>
-  </p>
-  
-<p  align="left">
+  <tr>
+    <td>
+      <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" height="40"/>&nbsp;&nbsp;<img src="https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=Webpack&logoColor=white" height="40"/>&nbsp;&nbsp;<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" height="40"/>
+    </td>
+  </tr>
 
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" width="100" height="30"/>  
-  &nbsp;
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" width="100" height="30"/>
-  </p>
-  
-  <p  align="left">
+  <tr>
+    <td>
+      <img src="https://img.shields.io/badge/Flask-05122A?style=for-the-badge&logo=flask" height="40"/>&nbsp;&nbsp;<img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green" height="40"/>&nbsp;&nbsp;<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" height="40"/>&nbsp;&nbsp;<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" height="40"/>
+    </td>
+  </tr>
 
-  
-<img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" width="80" height="30"/>
-  &nbsp;
-<img src="https://user-images.githubusercontent.com/22448559/137614989-f740ccc8-83cb-453a-8e28-ac07da187920.png" width="80" height="30"/>
-  &nbsp;
-<img src="https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=Webpack&logoColor=white" width="80" height="30"/>  
- </p>
-
- 
- <p align="left">
-
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" width="90" height="30">
-&nbsp;
-  <img src="https://img.shields.io/badge/-Flask-05122A?style=flat&logo=flask" width="90" height="30">
-&nbsp;
-    <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green" width="90" height="30">
-&nbsp;
-    <img src="https://user-images.githubusercontent.com/22448559/137615981-be5a8b84-19b2-4b1e-ae97-3b273b594c4c.jpeg" width="90" height="30">
-
-</p>
-
-
- <p  align="left">
-
-<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" width="90" height="30">
-  &nbsp;
-
-<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" width="90" height="30">
-&nbsp;
-  
-  <img src="https://img.shields.io/badge/redis-%23DD0031.svg?&style=for-the-badge&logo=redis&logoColor=white" width="90" height="30">
-&nbsp;
-  
-<img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" width="90" height="30">
-&nbsp;
-  
-<img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white" width="90" height="30">
-  
-</p>
-
-<br>
+  <tr>
+    <td>
+      <img src="https://img.shields.io/badge/Redis-%23DD0031.svg?&style=for-the-badge&logo=redis&logoColor=white" height="40"/>&nbsp;&nbsp;<img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" height="40"/>&nbsp;&nbsp;<img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white" height="40"/>&nbsp;&nbsp;<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" height="40"/>&nbsp;&nbsp;<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" height="40"/>
+    </td>
+  </tr>
+</table>
 
 
 
@@ -118,10 +93,13 @@
 <br>
 
 ### 🏆 Badges<br>
-<img src="https://github.com/user-attachments/assets/97b4fd9c-b10e-4087-aa32-c736732cda98" width="277" height="277"/>
-<img src="https://github.com/user-attachments/assets/14cf2a6d-3889-4daf-81f9-39714f4dbff2" width="277" height="277"/>
-<img src="https://github.com/user-attachments/assets/96ee2a34-3c00-4128-a4ac-1dd424601489" width="277" height="277"/>
-
+<table>
+  <tr>
+    <td><img src="https://github.com/user-attachments/assets/97b4fd9c-b10e-4087-aa32-c736732cda98" width="310" /></td>
+    <td><img src="https://github.com/user-attachments/assets/14cf2a6d-3889-4daf-81f9-39714f4dbff2" width="310" /></td>
+    <td><img src="https://github.com/user-attachments/assets/96ee2a34-3c00-4128-a4ac-1dd424601489" width="310" /></td>
+  </tr>
+</table>
 ### 🏆 Star Dev
 <a href="https://stardev.io/developers/a8hok"><img alt="Check out a8hok&apos;s profile on stardev.io" src="https://stardev.io/developers/a8hok/badge/languages/global.svg" width="840"/></a>
 
