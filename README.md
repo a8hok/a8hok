@@ -105,17 +105,13 @@
 
 ### 🏆 College Sessions
 
-<img src="https://github.com/user-attachments/assets/9665c646-4d18-4699-a4d6-c71c9e15ce4a" width="840" height="370"/>
-<br>
-<img width="840" height="370" alt="python-class_optimized" src="https://github.com/user-attachments/assets/ecdf8529-4585-4147-a7db-02aff4369ab9" />
-<br>
-
-<img width="277" height="400" alt="daily-log-2025-total-impact (1)" src="https://github.com/user-attachments/assets/fd263aa6-2354-4e7e-85eb-b657d93934b9" />
-
-<img width="277" height="400" alt="daily-log-2025-share (1)" src="https://github.com/user-attachments/assets/fb458690-9207-41e9-9e9a-a17860f7f796" />
-
-
-<img width="277" height="400" alt="daily-log-2025-when-you-read" src="https://github.com/user-attachments/assets/7dfd2ee0-a4a9-4207-876a-c3239d9cda8e" />
+<table>
+  <tr>
+    <td><img src="https://github.com/user-attachments/assets/fd263aa6-2354-4e7e-85eb-b657d93934b9" width="310" height="400"/></td>
+    <td><img src="https://github.com/user-attachments/assets/fb458690-9207-41e9-9e9a-a17860f7f796" width="310" height="400"/></td>
+    <td><img src="https://github.com/user-attachments/assets/7dfd2ee0-a4a9-4207-876a-c3239d9cda8e" width="310" height="400"/></td>
+  </tr>
+</table>
 
 
 
