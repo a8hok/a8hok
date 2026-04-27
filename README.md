@@ -107,6 +107,12 @@
 
 ### 🏆 College Sessions
 
+<img src="https://github.com/user-attachments/assets/9665c646-4d18-4699-a4d6-c71c9e15ce4a" width="1000" height="370"/>
+<br>
+<img width="1000" height="370" alt="python-class_optimized" src="https://github.com/user-attachments/assets/ecdf8529-4585-4147-a7db-02aff4369ab9" />
+<br>
+
+### 🏆 Daily Dev Stats
 <table>
   <tr>
     <td><img src="https://github.com/user-attachments/assets/fd263aa6-2354-4e7e-85eb-b657d93934b9" width="310" height="400"/></td>
