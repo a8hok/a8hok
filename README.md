@@ -100,8 +100,10 @@
     <td><img src="https://github.com/user-attachments/assets/96ee2a34-3c00-4128-a4ac-1dd424601489" width="310" /></td>
   </tr>
 </table>
+
 ### 🏆 Star Dev
-<a href="https://stardev.io/developers/a8hok"><img alt="Check out a8hok&apos;s profile on stardev.io" src="https://stardev.io/developers/a8hok/badge/languages/global.svg" width="840"/></a>
+
+<img width="1004" height="353" src="https://github.com/user-attachments/assets/0757f2d5-ff7f-4f63-9387-e51ecfd551e4" />
 
 ### 🏆 College Sessions
 
